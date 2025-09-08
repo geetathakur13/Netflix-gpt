@@ -1,0 +1,67 @@
+#Netflix-gpt
+-Create react app
+-Configured TailwaindCSS
+-Header
+-Routing of App
+-Login Form
+-Sign up form
+-From Validation
+-useRef Hook
+-Firebase Setup
+-Deploying our app to production
+-Create Sign Up user Account(Authentication)
+-Implement Sign In user Api
+-created Redux Store with userSlice
+-implemented sign out
+-validation
+-redirected of our app
+-updated profile
+-BugFix:Sign Up user DispaiyName and Profile picture update
+-BugFix:if the user is not logged in Redirect /browse to login page and vice-versa
+-Unsubcribed to the onAuthStateChanged callback
+-Add hardCoded values to the constants file
+-Register TMDB API and create an app over there & an access token
+-Get Data from TMDB now playing movies List API
+-created custome hook for now playing movies
+-update store with movies Data
+-Planning for MainContainer & secondary container
+-Update Store with Trailer Video Data
+-Embedded the yotube video and make it autoplay and mute
+-Tailwind Classes to make Main Container look awesome
+-Secondary Component
+-Build movie list
+-Build moive card
+-Found out TMDB image cdn
+-Made the browse the page amazing with tailwind css
+-usePopularMovies custom Hook
+-GPT search feature
+-GPT search Bar
+-(Big feature)Multi-language feature in our app
+-Integrate GPT 
+-Gpt Search Bar
+-Gpt search OpenAi
+-Gpt Search api call
+-fetched gptMoviesSuggestions from TMDB
+-created Gpt sclice and movie their
+-Resused Movies List component to make suggestion container
+-Memoization
+-Adding .env file
+-Adding .env file to gitignore
+-Made our site Responsive
+
+#features
+-Login/Sing UP
+  -sign In/ Sign  up form
+  -redirect to Browser page
+
+-Browser (after authentication)
+  -Header
+  -Main Movie
+    -Tailer in Background
+    -Title & Description
+    -MovieSuggestions
+      -oviesLists * N
+
+-NetflixGpt
+ -Search Bar
+ -Movie suggestions
