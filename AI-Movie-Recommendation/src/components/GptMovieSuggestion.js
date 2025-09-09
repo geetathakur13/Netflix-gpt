@@ -13,7 +13,7 @@ const GptMovieSuggestion = () => {
           🎬 AI Recommendations
         </h2>
         <p className="text-gray-300 text-center text-sm sm:text-base mt-2 transition-all duration-500 delay-200">
-          Curated just for you by artificial intelligence
+          Movies suggested by my AI system
         </p>
       </div>
       <div>
